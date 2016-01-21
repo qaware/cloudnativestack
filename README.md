@@ -13,10 +13,12 @@
  * Docker Swarm
 
 ## Distributed Systems Services
+
 ### Configuration & Coordination
  * ZooKeeper
  * etcd
  * Consul
+ 
 ### Service Discovery
  * Netflix Eureka
  * Consul
