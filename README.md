@@ -1,5 +1,7 @@
 # Cloud Native Stack Technology Radar
+
 Open Source Components for building a Cloud Native Stack.
+
 ![Cloud Native Stack Big Picture](cloud-native-stack.jpg "Cloud Native Stack Big Picture")
 
 ## Cluster Scheduler
