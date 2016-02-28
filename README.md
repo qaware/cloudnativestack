@@ -1,5 +1,5 @@
 # Cloud Native Stack Technology Radar
-Overview of Open Source Components to build a Cloud Native Stack.
+Open Source Components for building a Cloud Native Stack.
 ![Cloud Native Stack Big Picture](cloud-native-stack.jpg "Cloud Native Stack Big Picture")
 
 ## Cluster Scheduler
@@ -18,6 +18,14 @@ Overview of Open Source Components to build a Cloud Native Stack.
  * [Kontena](http://www.kontena.io)
  * [VAMP](http://vamp.io)
  * [Marathon](https://mesosphere.github.io/marathon) + [Chronos](http://mesos.github.io/chronos)
+ * [Nulecule](http://www.projectatomic.io/docs/nulecule)
+ * [Panamax](http://panamax.io)
+ * [Apache Aurora](http://aurora.apache.org)
+ * [Decking](http://decking.io)
+ * [Rancher](https://github.com/rancher/rancher)
+ * [Cloudify](http://getcloudify.org)
+ * [Singularity](https://github.com/HubSpot/Singularity)
+ * [OneOps](http://www.oneops.com)
 
 ## Distributed Systems Services
 
