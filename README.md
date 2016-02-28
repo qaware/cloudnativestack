@@ -1,18 +1,23 @@
 # Cloud Native Stack Technology Radar
-
+Overview of Open Source Components to build a Cloud Native Stack.
 ![Cloud Native Stack Big Picture](cloud-native-stack.jpg "Cloud Native Stack Big Picture")
 
+## Cluster Scheduler
+ * [Apache Mesos](http://mesos.apache.org)
+ * [Docker Swarm](https://www.docker.com/products/docker-swarm)
+ * [Hadoop YARN](http://hortonworks.com/hadoop/yarn)
+ * [CoreOS fleet](https://github.com/coreos/fleet)
+ * [Nomad](https://www.nomadproject.io)
+
 ## Microservice Framework
- * Spring Cloud
+ * [Spring Cloud](http://projects.spring.io/spring-cloud)
 
 ## Cluster Orchestrator
- * Kubernetes
- * Docker Compose
- * Kontena
-
-## Cluster Scheduler
- * Mesos
- * Docker Swarm
+ * [Kubernetes](http://kubernetes.io)
+ * [Docker Compose](https://docs.docker.com/compose)
+ * [Kontena](http://www.kontena.io)
+ * [VAMP](http://vamp.io)
+ * [Marathon](https://mesosphere.github.io/marathon) + [Chronos](http://mesos.github.io/chronos)
 
 ## Distributed Systems Services
 
