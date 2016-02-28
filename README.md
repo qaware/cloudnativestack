@@ -2,7 +2,7 @@
 
 Open Source Components for building a Cloud Native Stack.
 
-![Cloud Native Stack Big Picture](cloud-native-stack.jpg "Cloud Native Stack Big Picture")
+![Cloud Native Stack Big Picture](cloud-native-stack.png "Cloud Native Stack Big Picture")
 
 ## Cluster Scheduler
  * [Apache Mesos](http://mesos.apache.org)
