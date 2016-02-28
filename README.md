@@ -1,5 +1,7 @@
 # Cloud Native Stack Technology Radar
 
+![Cloud Native Stack Big Picture](cloud-native-stack.jpg "Cloud Native Stack Big Picture")
+
 ## Microservice Framework
  * Spring Cloud
 
