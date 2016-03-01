@@ -71,3 +71,4 @@ Open Source Components for building a Cloud Native Stack.
  * [Prometheus](https://prometheus.io)
  * [Kibana](https://www.elastic.co/products/kibana)
  * [Grafana](http://grafana.org)
+ * [Sensu](https://sensuapp.org)
