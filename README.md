@@ -26,10 +26,14 @@ Open Source Components for building a Cloud Native Stack.
  * [Singularity](https://github.com/HubSpot/Singularity)
  * [OneOps](http://www.oneops.com)
  * [Apache Brooklyn](https://brooklyn.apache.org)
+ * [Lattice](http://lattice.cf)
 
 ## Microservice Framework
  * [Spring Cloud](http://projects.spring.io/spring-cloud)
  * [Seneca](http://senecajs.org)
+ * [hapi.js](http://hapijs.com)
+ * [hook.io](https://hook.io)
+ * [Microserver](https://github.com/aol/micro-server)
 
 ## Distributed Systems Services
 
