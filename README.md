@@ -1,6 +1,7 @@
 # Cloud Native Stack Technology Radar
 
 Open Source Components for building a Cloud Native Stack.
+You may also want to check out our [Big Data Landscape](https://github.com/qaware/big-data-landscape) and our [lecture on Cloud Computing (german)](https://github.com/adersberger/cloudcomputing).
 
 ![Cloud Native Stack Big Picture](cloud-native-stack.png "Cloud Native Stack Big Picture")
 
