@@ -39,12 +39,12 @@ You may also want to check out our [Big Data Landscape](https://github.com/qawar
 ## Distributed Systems Services
 
 ### Configuration & Coordination
- * [ZooKeeper](https://zookeeper.apache.org) (Paxos)
- * [etcd](https://coreos.com/etcd/docs/latest) (Raft)
- * [Consul](https://www.consul.io) (Raft)
- * [doozerd](https://github.com/ha/doozerd) (Paxos)
- * [atomix](https://github.com/atomix/atomix) (Raft)
- * [Serf](https://www.serfdom.io) (Gossip)
+ * [ZooKeeper](https://zookeeper.apache.org), Paxos-based
+ * [etcd](https://coreos.com/etcd/docs/latest), Raft-based
+ * [Consul](https://www.consul.io), Raft-based
+ * [doozerd](https://github.com/ha/doozerd), Paxos-based
+ * [atomix](https://github.com/atomix/atomix), Raft-based
+ * [Serf](https://www.serfdom.io), Gossip-based
  * [Netflix Archaius](https://github.com/Netflix/archaius)
  * [confd](http://www.confd.io)
  * [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config)
@@ -61,7 +61,7 @@ You may also want to check out our [Big Data Landscape](https://github.com/qawar
  * [Marathon-LB](https://github.com/mesosphere/marathon-lb)
 
 ### Edge Server
- * [Netflix Zuul](https://github.com/Netflix/zuul), battle-proven @ Netflix, well-integrated, Java-based ([Intro](http://techblog.netflix.com/2013/06/announcing-zuul-edge-service-in-cloud.html)
+ * [Netflix Zuul](https://github.com/Netflix/zuul), battle-proven @ Netflix, well-integrated, Java-based ([Intro](http://techblog.netflix.com/2013/06/announcing-zuul-edge-service-in-cloud.html))
  * [Traefik](http://traefik.github.io)
  * [VULCAN](http://vulcand.github.io)
  * [KONG](https://getkong.org)
