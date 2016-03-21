@@ -61,7 +61,7 @@ You may also want to check out our [Big Data Landscape](https://github.com/qawar
  * [Marathon-LB](https://github.com/mesosphere/marathon-lb)
 
 ### Edge Server
- * [Netflix Zuul](https://github.com/Netflix/zuul)
+ * [Netflix Zuul](https://github.com/Netflix/zuul), battle-proven @ Netflix, well-integrated, Java-based ([Intro](http://techblog.netflix.com/2013/06/announcing-zuul-edge-service-in-cloud.html)
  * [Traefik](http://traefik.github.io)
  * [VULCAN](http://vulcand.github.io)
  * [KONG](https://getkong.org)
