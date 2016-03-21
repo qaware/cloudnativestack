@@ -45,12 +45,12 @@ You may also want to check out our [Big Data Landscape](https://github.com/qawar
  * [doozerd](https://github.com/ha/doozerd), Paxos-based
  * [atomix](https://github.com/atomix/atomix), Raft-based
  * [Serf](https://www.serfdom.io), Gossip-based
- * [Netflix Archaius](https://github.com/Netflix/archaius)
+ * [Netflix Archaius](https://github.com/Netflix/archaius), battle-proven @ Netflix, well-integrated, Java-based
  * [confd](http://www.confd.io)
  * [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config)
  
 ### Service Discovery
- * [Netflix Eureka](https://github.com/Netflix/eureka)
+ * [Netflix Eureka](https://github.com/Netflix/eureka), battle-proven @ Netflix, well-integrated, Java-based
  * [Consul](https://www.consul.io)
  * [SkyDNS](https://github.com/skynetservices/skydns)
  * [Hyperbahn](https://github.com/uber/hyperbahn)
@@ -69,8 +69,8 @@ You may also want to check out our [Big Data Landscape](https://github.com/qawar
  * [Weave Flux](https://github.com/weaveworks/flux)
 
 ### Monitoring & Logging
- * [Netflix Turbine](https://github.com/Netflix/Turbine)
- * [Netflix Atlas](https://github.com/Netflix/atlas)
+ * [Netflix Turbine](https://github.com/Netflix/Turbine), battle-proven @ Netflix, well-integrated, Java-based
+ * [Netflix Atlas](https://github.com/Netflix/atlas), battle-proven @ Netflix, well-integrated, Java-based
  * [Spring Cloud Sleuth](http://cloud.spring.io/spring-cloud-sleuth)
  * [Zikin](https://github.com/openzipkin/zipkin)
  * [Prometheus](https://prometheus.io)
