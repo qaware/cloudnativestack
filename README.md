@@ -30,7 +30,8 @@ You may also want to check out our [Big Data Landscape](https://github.com/qawar
  * [Lattice](http://lattice.cf)
 
 ## Microservice Framework
- * [Spring Cloud](http://projects.spring.io/spring-cloud)
+ * [Spring Cloud](http://projects.spring.io/spring-cloud) Spring Boot + several cloud modules & microservices
+ * [Lagom](https://www.lightbend.com/lagom) Microservice Framework from Lightbend based on Akka et al.
  * [Seneca](http://senecajs.org)
  * [hapi.js](http://hapijs.com)
  * [hook.io](https://hook.io)
