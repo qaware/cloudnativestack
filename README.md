@@ -25,7 +25,6 @@ You may also want to check out our [Big Data Landscape](https://github.com/qawar
  * [Rancher](https://github.com/rancher/rancher)
  * [Cloudify](http://getcloudify.org)
  * [Singularity](https://github.com/HubSpot/Singularity)
- * [OneOps](http://www.oneops.com)
  * [Apache Brooklyn](https://brooklyn.apache.org)
  * [Lattice](http://lattice.cf)
  * [Helios](https://github.com/spotify/helios)
